@@ -5,7 +5,7 @@ services:
     container_name: wpp_bot_waha
     restart: always
     environment:
-      - WAHA_API_KEY=ca43c648b84a44d79c63c0aa40e07bdc
+      - WAHA_API_KEY='SUA API KEY'
     ports:
       - '3000:3000'
 
